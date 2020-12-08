@@ -1,0 +1,8 @@
+name: SpeedCommand
+author: xTailsPvP
+version: 1.0
+main: de.tails.speedcommand.main.SpeedCommand
+api-version: 1.8
+
+commands:
+   speed:
